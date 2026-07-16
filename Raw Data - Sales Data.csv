@@ -1,0 +1,201 @@
+Transaction ID,Customer ID,Purchase Date,Product Category,Items Quantity,Unit Price,Total Amount,Payment Method,Shipping Country,Marketing Channel,Customer Type
+TXN100001,CUST1654,2025-02-27,Electronics,2,$902.78,"$1,805.56",Debit Card,Canada,Affiliate,New
+TXN100002,CUST1758,2025-10-07,Apparel,1,$94.72,$94.72,Credit Card,United Kingdom,Paid Social,New
+TXN100003,CUST1616,2025-01-14,Beauty & Personal Care,6,$65.86,$395.16,Bank Transfer,France,Paid Social,New
+TXN100004,CUST1284,2025-01-04,Home & Kitchen,3,$285.29,$855.87,PayPal,Canada,Paid Social,VIP
+TXN100005,CUST1344,2025-02-22,Apparel,3,$66.29,$198.87,PayPal,UAE,Email Campaign,Returning
+TXN100006,CUST1747,2025-08-24,Apparel,4,$146.37,$585.48,Credit Card,Japan,Email Campaign,Returning
+TXN100007,CUST1633,2025-07-05,Beauty & Personal Care,1,$64.89,$64.89,Cash on Delivery,India,Paid Search,New
+TXN100008,CUST1081,2025-04-30,Apparel,4,$66.32,$265.28,Cash on Delivery,Australia,Paid Social,New
+TXN100009,CUST1214,2025-12-10,Sports & Outdoors,6,$213.53,"$1,281.18",Cash on Delivery,United Kingdom,Direct,Returning
+TXN100010,CUST1546,2025-05-06,Home & Kitchen,3,$195.66,$586.98,Cash on Delivery,Japan,Paid Social,Returning
+TXN100011,CUST1863,2025-01-29,Beauty & Personal Care,3,$74.85,$224.55,Apple Pay,Germany,Organic Search,New
+TXN100012,CUST1965,2025-10-18,Books,4,$13.51,$54.04,Apple Pay,Brazil,Paid Social,New
+TXN100013,CUST1252,2025-10-15,Sports & Outdoors,4,$226.63,$906.52,Bank Transfer,France,Email Campaign,New
+TXN100014,CUST1141,2025-09-18,Grocery,1,$7.27,$7.27,Credit Card,Canada,Affiliate,New
+TXN100015,CUST1696,2025-08-05,Apparel,5,$66.94,$334.70,Apple Pay,Japan,Email Campaign,VIP
+TXN100016,CUST1881,2025-01-06,Apparel,5,$107.03,$535.15,PayPal,Australia,Organic Search,New
+TXN100017,CUST1161,2025-08-21,Electronics,6,"$1,146.89","$6,881.34",PayPal,Japan,Paid Search,New
+TXN100018,CUST1934,2025-02-24,Sports & Outdoors,5,$254.08,"$1,270.40",Bank Transfer,India,Paid Social,New
+TXN100019,CUST1165,2025-10-04,Electronics,4,$738.79,"$2,955.16",Credit Card,United Kingdom,Email Campaign,VIP
+TXN100020,CUST1851,2025-06-07,Beauty & Personal Care,5,$9.92,$49.60,Credit Card,United Kingdom,Affiliate,Returning
+TXN100021,CUST1070,2025-09-30,Home & Kitchen,4,$68.79,$275.16,Bank Transfer,Canada,Email Campaign,Returning
+TXN100022,CUST1621,2025-08-05,Beauty & Personal Care,6,$83.96,$503.76,Cash on Delivery,India,Affiliate,New
+TXN100023,CUST1687,2025-11-29,Books,5,$22.52,$112.60,Apple Pay,United Kingdom,Paid Social,New
+TXN100024,CUST1346,2025-01-11,Beauty & Personal Care,1,$55.02,$55.02,Credit Card,USA,Paid Social,New
+TXN100025,CUST1032,2025-06-19,Apparel,3,$84.41,$253.23,Cash on Delivery,Brazil,Paid Social,Returning
+TXN100026,CUST1740,2025-10-20,Grocery,4,$16.09,$64.36,Apple Pay,India,Organic Search,New
+TXN100027,CUST1441,2025-07-01,Toys & Games,6,$54.04,$324.24,Credit Card,United Kingdom,Organic Search,New
+TXN100028,CUST1347,2025-02-25,Beauty & Personal Care,5,$21.29,$106.45,Apple Pay,Canada,Referral,New
+TXN100029,CUST1473,2025-05-08,Apparel,5,$74.82,$374.10,Credit Card,USA,Affiliate,VIP
+TXN100030,CUST1856,2025-01-08,Apparel,2,$140.06,$280.12,Debit Card,France,Referral,Returning
+TXN100031,CUST1885,2025-07-25,Electronics,1,$239.33,$239.33,Apple Pay,Germany,Paid Search,Returning
+TXN100032,CUST1292,2025-08-05,Grocery,3,$10.98,$32.94,Debit Card,USA,Direct,Returning
+TXN100033,CUST1062,2025-06-10,Electronics,4,$107.66,$430.64,Bank Transfer,Japan,Paid Social,New
+TXN100034,CUST1520,2025-02-11,Home & Kitchen,1,$46.04,$46.04,Cash on Delivery,India,Referral,New
+TXN100035,CUST1911,2025-10-19,Beauty & Personal Care,1,$54.21,$54.21,Bank Transfer,United Kingdom,Referral,Returning
+TXN100036,CUST1578,2025-09-25,Books,2,$42.39,$84.78,Cash on Delivery,Australia,Paid Social,New
+TXN100037,CUST1134,2025-12-10,Sports & Outdoors,1,$142.60,$142.60,Credit Card,Brazil,Direct,VIP
+TXN100038,CUST1102,2025-02-07,Beauty & Personal Care,2,$48.00,$96.00,PayPal,United Kingdom,Paid Social,New
+TXN100039,CUST1161,2025-08-13,Sports & Outdoors,6,$187.39,"$1,124.34",Bank Transfer,USA,Affiliate,Returning
+TXN100040,CUST1306,2025-12-06,Apparel,2,$141.76,$283.52,PayPal,United Kingdom,Organic Search,Returning
+TXN100041,CUST1159,2025-05-20,Sports & Outdoors,6,$185.40,"$1,112.40",PayPal,India,Affiliate,Returning
+TXN100042,CUST1270,2025-09-16,Grocery,1,$16.57,$16.57,Credit Card,France,Paid Search,New
+TXN100043,CUST1003,2025-06-20,Home & Kitchen,3,$262.10,$786.30,Debit Card,Brazil,Direct,Returning
+TXN100044,CUST1574,2025-01-05,Apparel,6,$25.16,$150.96,Debit Card,Japan,Organic Search,Returning
+TXN100045,CUST1596,2025-10-10,Home & Kitchen,1,$183.32,$183.32,PayPal,Australia,Paid Search,VIP
+TXN100046,CUST1040,2025-07-03,Beauty & Personal Care,6,$62.98,$377.88,Credit Card,Australia,Paid Search,Returning
+TXN100047,CUST1895,2025-07-28,Home & Kitchen,2,$371.79,$743.58,Debit Card,Canada,Referral,New
+TXN100048,CUST1754,2025-06-20,Toys & Games,6,$97.85,$587.10,Debit Card,Germany,Paid Social,Returning
+TXN100049,CUST1110,2025-07-15,Electronics,2,"$1,037.38","$2,074.76",Debit Card,Brazil,Email Campaign,New
+TXN100050,CUST1814,2025-04-27,Beauty & Personal Care,2,$7.01,$14.02,Apple Pay,Australia,Email Campaign,VIP
+TXN100051,CUST1990,2025-05-23,Books,4,$30.66,$122.64,Cash on Delivery,Japan,Email Campaign,VIP
+TXN100052,CUST1118,2025-05-14,Home & Kitchen,3,$240.62,$721.86,Credit Card,United Kingdom,Direct,New
+TXN100053,CUST1746,2025-06-10,Toys & Games,5,$75.90,$379.50,Credit Card,France,Direct,New
+TXN100054,CUST1045,2025-12-29,Toys & Games,5,$8.19,$40.95,Cash on Delivery,India,Email Campaign,New
+TXN100055,CUST1971,2025-12-07,Books,6,$29.93,$179.58,Credit Card,Germany,Direct,New
+TXN100056,CUST1418,2025-06-17,Toys & Games,5,$86.09,$430.45,Debit Card,India,Referral,Returning
+TXN100057,CUST1388,2025-12-13,Home & Kitchen,3,$253.90,$761.70,Apple Pay,Japan,Paid Search,New
+TXN100058,CUST1293,2025-04-18,Toys & Games,5,$96.00,$480.00,Cash on Delivery,Australia,Referral,New
+TXN100059,CUST1691,2025-04-20,Grocery,6,$48.04,$288.24,Debit Card,United Kingdom,Email Campaign,Returning
+TXN100060,CUST1648,2025-11-14,Books,2,$8.74,$17.48,Cash on Delivery,Germany,Paid Social,Returning
+TXN100061,CUST1150,2025-01-13,Electronics,4,$331.57,"$1,326.28",Bank Transfer,United Kingdom,Referral,New
+TXN100062,CUST1644,2025-10-22,Beauty & Personal Care,4,$66.06,$264.24,Apple Pay,France,Paid Social,New
+TXN100063,CUST1704,2025-01-03,Apparel,2,$120.09,$240.18,Debit Card,Japan,Referral,New
+TXN100064,CUST1255,2025-03-04,Grocery,4,$9.73,$38.92,Cash on Delivery,Japan,Direct,Returning
+TXN100065,CUST1972,2025-08-15,Toys & Games,5,$101.02,$505.10,Apple Pay,Canada,Affiliate,VIP
+TXN100066,CUST1460,2025-05-13,Beauty & Personal Care,3,$76.39,$229.17,Bank Transfer,Brazil,Affiliate,New
+TXN100067,CUST1450,2025-02-09,Sports & Outdoors,3,$78.00,$234.00,PayPal,Japan,Organic Search,New
+TXN100068,CUST1236,2025-07-16,Home & Kitchen,1,$288.44,$288.44,Apple Pay,France,Email Campaign,Returning
+TXN100069,CUST1425,2025-02-01,Beauty & Personal Care,4,$75.80,$303.20,Bank Transfer,USA,Paid Search,VIP
+TXN100070,CUST1589,2025-07-14,Grocery,3,$2.34,$7.02,PayPal,France,Paid Search,VIP
+TXN100071,CUST1855,2025-08-03,Beauty & Personal Care,3,$46.50,$139.50,Apple Pay,Brazil,Organic Search,New
+TXN100072,CUST1684,2025-12-14,Toys & Games,4,$89.11,$356.44,Debit Card,UAE,Direct,New
+TXN100073,CUST1403,2025-10-31,Electronics,4,$146.54,$586.16,Debit Card,Brazil,Paid Social,New
+TXN100074,CUST1388,2025-06-17,Beauty & Personal Care,3,$43.65,$130.95,Apple Pay,Germany,Paid Search,VIP
+TXN100075,CUST1431,2025-05-10,Apparel,6,$78.49,$470.94,Bank Transfer,USA,Email Campaign,New
+TXN100076,CUST1070,2025-11-30,Electronics,2,$917.37,"$1,834.74",Debit Card,USA,Direct,New
+TXN100077,CUST1129,2025-08-31,Apparel,2,$91.14,$182.28,Apple Pay,Germany,Paid Search,New
+TXN100078,CUST1620,2025-11-07,Apparel,2,$120.00,$240.00,PayPal,United Kingdom,Direct,New
+TXN100079,CUST1319,2025-10-22,Toys & Games,6,$52.43,$314.58,Debit Card,United Kingdom,Direct,Returning
+TXN100080,CUST1642,2025-05-05,Apparel,3,$109.12,$327.36,Cash on Delivery,UAE,Paid Search,New
+TXN100081,CUST1579,2025-01-22,Books,6,$26.31,$157.86,PayPal,United Kingdom,Direct,Returning
+TXN100082,CUST1012,2025-08-04,Grocery,3,$8.12,$24.36,Cash on Delivery,Brazil,Affiliate,New
+TXN100083,CUST1180,2025-09-25,Sports & Outdoors,5,$188.61,$943.05,Apple Pay,Brazil,Referral,Returning
+TXN100084,CUST1606,2025-05-18,Books,1,$39.07,$39.07,PayPal,Brazil,Paid Social,Returning
+TXN100085,CUST1583,2025-11-09,Toys & Games,4,$45.68,$182.72,PayPal,Canada,Referral,New
+TXN100086,CUST1816,2025-05-13,Books,5,$16.19,$80.95,Cash on Delivery,Germany,Direct,New
+TXN100087,CUST1970,2025-04-08,Apparel,4,$47.58,$190.32,Apple Pay,Japan,Paid Search,New
+TXN100088,CUST1487,2025-11-27,Grocery,1,$27.99,$27.99,Credit Card,Germany,Paid Social,New
+TXN100089,CUST1249,2025-06-06,Books,5,$23.93,$119.65,PayPal,France,Affiliate,Returning
+TXN100090,CUST1360,2025-12-26,Grocery,3,$17.71,$53.13,Debit Card,United Kingdom,Affiliate,New
+TXN100091,CUST1122,2025-10-02,Home & Kitchen,6,$92.79,$556.74,Apple Pay,Germany,Affiliate,Returning
+TXN100092,CUST1778,2025-09-26,Sports & Outdoors,2,$294.35,$588.70,PayPal,India,Email Campaign,New
+TXN100093,CUST1014,2025-12-29,Home & Kitchen,1,$124.24,$124.24,Bank Transfer,Germany,Affiliate,VIP
+TXN100094,CUST1653,2025-09-09,Apparel,5,$132.82,$664.10,PayPal,Brazil,Referral,New
+TXN100095,CUST1188,2025-01-27,Sports & Outdoors,4,$282.91,"$1,131.64",Credit Card,United Kingdom,Referral,Returning
+TXN100096,CUST1590,2025-11-19,Electronics,5,$224.49,"$1,122.45",PayPal,United Kingdom,Paid Social,New
+TXN100097,CUST1782,2025-08-02,Beauty & Personal Care,4,$70.93,$283.72,Apple Pay,Brazil,Email Campaign,VIP
+TXN100098,CUST1439,2025-06-06,Electronics,6,$751.08,"$4,506.48",Credit Card,India,Affiliate,New
+TXN100099,CUST1676,2025-02-11,Home & Kitchen,5,$111.15,$555.75,Credit Card,Canada,Organic Search,New
+TXN100100,CUST1705,2025-11-01,Grocery,2,$18.89,$37.78,PayPal,Germany,Affiliate,VIP
+TXN100101,CUST1072,2025-12-18,Beauty & Personal Care,6,$83.53,$501.18,Bank Transfer,India,Referral,New
+TXN100102,CUST1230,2025-11-28,Home & Kitchen,2,$365.20,$730.40,Credit Card,USA,Paid Social,Returning
+TXN100103,CUST1609,2025-10-19,Sports & Outdoors,4,$137.35,$549.40,Cash on Delivery,Germany,Affiliate,New
+TXN100104,CUST1278,2025-09-14,Grocery,5,$27.39,$136.95,Credit Card,France,Affiliate,New
+TXN100105,CUST1256,2025-01-14,Apparel,6,$45.90,$275.40,Bank Transfer,UAE,Organic Search,VIP
+TXN100106,CUST1688,2025-05-18,Electronics,2,$927.58,"$1,855.16",Apple Pay,Japan,Affiliate,New
+TXN100107,CUST1284,2025-04-03,Toys & Games,4,$79.10,$316.40,Credit Card,Brazil,Email Campaign,New
+TXN100108,CUST1328,2025-12-10,Apparel,3,$130.79,$392.37,Apple Pay,Brazil,Email Campaign,Returning
+TXN100109,CUST1410,2025-10-09,Electronics,3,$573.05,"$1,719.15",PayPal,Australia,Organic Search,VIP
+TXN100110,CUST1413,2025-09-21,Electronics,5,$806.31,"$4,031.55",Apple Pay,France,Organic Search,New
+TXN100111,CUST1370,2025-11-15,Grocery,1,$38.27,$38.27,Debit Card,Germany,Direct,New
+TXN100112,CUST1294,2025-08-13,Grocery,6,$9.04,$54.24,Bank Transfer,India,Affiliate,New
+TXN100113,CUST1564,2025-01-08,Toys & Games,1,$18.44,$18.44,Apple Pay,United Kingdom,Affiliate,Returning
+TXN100114,CUST1510,2025-05-30,Sports & Outdoors,4,$130.49,$521.96,Apple Pay,India,Referral,Returning
+TXN100115,CUST1392,2025-04-08,Home & Kitchen,3,$348.33,"$1,044.99",Apple Pay,Australia,Paid Search,Returning
+TXN100116,CUST1840,2025-01-02,Sports & Outdoors,5,$220.55,"$1,102.75",Bank Transfer,Brazil,Paid Search,New
+TXN100117,CUST1551,2025-09-05,Books,5,$18.30,$91.50,Apple Pay,Brazil,Email Campaign,VIP
+TXN100118,CUST1714,2025-05-03,Toys & Games,4,$34.16,$136.64,Credit Card,Australia,Affiliate,Returning
+TXN100119,CUST1935,2025-07-15,Toys & Games,6,$118.70,$712.20,Debit Card,Brazil,Organic Search,New
+TXN100120,CUST1988,2025-10-30,Books,4,$39.79,$159.16,Credit Card,Japan,Referral,New
+TXN100121,CUST1147,2025-07-29,Home & Kitchen,3,$48.43,$145.29,PayPal,UAE,Affiliate,New
+TXN100122,CUST1082,2025-06-18,Toys & Games,6,$114.86,$689.16,Cash on Delivery,Brazil,Paid Search,Returning
+TXN100123,CUST1632,2025-02-05,Beauty & Personal Care,3,$58.65,$175.95,Debit Card,United Kingdom,Referral,VIP
+TXN100124,CUST1778,2025-11-21,Apparel,6,$74.90,$449.40,PayPal,USA,Organic Search,New
+TXN100125,CUST1057,2025-05-31,Books,2,$19.99,$39.98,Debit Card,Japan,Referral,Returning
+TXN100126,CUST1811,2025-04-03,Home & Kitchen,5,$86.53,$432.65,Apple Pay,UAE,Affiliate,New
+TXN100127,CUST1934,2025-10-26,Home & Kitchen,6,$108.23,$649.38,PayPal,Brazil,Email Campaign,Returning
+TXN100128,CUST1920,2025-08-27,Sports & Outdoors,2,$206.51,$413.02,Credit Card,Brazil,Email Campaign,VIP
+TXN100129,CUST1306,2025-11-24,Toys & Games,4,$85.32,$341.28,PayPal,India,Referral,VIP
+TXN100130,CUST1109,2025-05-02,Toys & Games,5,$72.06,$360.30,PayPal,Germany,Organic Search,VIP
+TXN100131,CUST1674,2025-07-22,Sports & Outdoors,6,$12.35,$74.10,Cash on Delivery,USA,Direct,Returning
+TXN100132,CUST1852,2025-05-27,Beauty & Personal Care,3,$56.60,$169.80,Debit Card,India,Direct,New
+TXN100133,CUST1773,2025-12-04,Home & Kitchen,6,$258.73,"$1,552.38",Cash on Delivery,USA,Email Campaign,Returning
+TXN100134,CUST1034,2025-10-24,Books,1,$34.29,$34.29,PayPal,Australia,Affiliate,New
+TXN100135,CUST1205,2025-03-09,Books,3,$26.23,$78.69,Debit Card,Germany,Paid Search,VIP
+TXN100136,CUST1990,2025-06-01,Books,4,$37.17,$148.68,Credit Card,Canada,Paid Search,VIP
+TXN100137,CUST1880,2025-12-13,Toys & Games,5,$116.33,$581.65,PayPal,United Kingdom,Paid Search,New
+TXN100138,CUST1270,2025-10-02,Apparel,6,$76.40,$458.40,Cash on Delivery,Germany,Direct,New
+TXN100139,CUST1653,2025-07-10,Apparel,4,$106.10,$424.40,Credit Card,UAE,Direct,New
+TXN100140,CUST1624,2025-04-24,Apparel,4,$100.78,$403.12,Cash on Delivery,Germany,Affiliate,New
+TXN100141,CUST1143,2025-01-24,Electronics,4,$400.02,"$1,600.08",Credit Card,United Kingdom,Paid Social,VIP
+TXN100142,CUST1138,2025-07-18,Grocery,6,$23.52,$141.12,Cash on Delivery,Japan,Referral,Returning
+TXN100143,CUST1744,2025-03-21,Toys & Games,4,$81.35,$325.40,Bank Transfer,France,Email Campaign,New
+TXN100144,CUST1379,2025-04-22,Grocery,2,$27.79,$55.58,PayPal,United Kingdom,Affiliate,New
+TXN100145,CUST1923,2025-11-27,Books,3,$7.42,$22.26,Debit Card,United Kingdom,Paid Search,Returning
+TXN100146,CUST1093,2025-12-06,Beauty & Personal Care,5,$59.54,$297.70,Credit Card,USA,Paid Search,New
+TXN100147,CUST1128,2025-10-17,Beauty & Personal Care,5,$10.83,$54.15,Debit Card,UAE,Paid Social,Returning
+TXN100148,CUST1238,2025-06-18,Home & Kitchen,5,$319.68,"$1,598.40",Credit Card,Germany,Paid Search,VIP
+TXN100149,CUST1133,2025-10-04,Sports & Outdoors,1,$241.57,$241.57,Cash on Delivery,USA,Paid Social,New
+TXN100150,CUST1808,2025-05-02,Books,3,$5.63,$16.89,Credit Card,Canada,Affiliate,New
+TXN100151,CUST1116,2025-02-02,Grocery,3,$28.00,$84.00,Bank Transfer,UAE,Organic Search,Returning
+TXN100152,CUST1226,2025-11-11,Electronics,6,$886.33,"$5,317.98",Bank Transfer,Germany,Referral,Returning
+TXN100153,CUST1031,2025-02-01,Grocery,4,$51.14,$204.56,Cash on Delivery,United Kingdom,Referral,Returning
+TXN100154,CUST1454,2025-02-07,Apparel,2,$58.49,$116.98,Credit Card,Canada,Email Campaign,Returning
+TXN100155,CUST1599,2025-10-08,Books,5,$20.24,$101.20,Bank Transfer,Germany,Referral,Returning
+TXN100156,CUST1440,2025-02-20,Apparel,6,$130.13,$780.78,Bank Transfer,India,Referral,Returning
+TXN100157,CUST1233,2025-07-31,Books,4,$38.10,$152.40,Apple Pay,United Kingdom,Email Campaign,New
+TXN100158,CUST1681,2025-05-11,Books,6,$43.14,$258.84,Apple Pay,United Kingdom,Organic Search,Returning
+TXN100159,CUST1095,2025-08-10,Apparel,3,$115.52,$346.56,Debit Card,Japan,Organic Search,Returning
+TXN100160,CUST1575,2025-10-15,Books,4,$31.80,$127.20,PayPal,France,Paid Search,VIP
+TXN100161,CUST1052,2025-05-28,Sports & Outdoors,5,$111.98,$559.90,Bank Transfer,India,Paid Social,Returning
+TXN100162,CUST1229,2025-02-25,Books,3,$38.81,$116.43,Credit Card,Germany,Direct,New
+TXN100163,CUST1439,2025-10-15,Electronics,6,$750.34,"$4,502.04",Cash on Delivery,Germany,Organic Search,New
+TXN100164,CUST1719,2025-06-08,Books,2,$19.04,$38.08,Debit Card,UAE,Affiliate,New
+TXN100165,CUST1145,2025-11-21,Electronics,5,$155.52,$777.60,Debit Card,France,Referral,Returning
+TXN100166,CUST1161,2025-07-09,Sports & Outdoors,5,$219.26,"$1,096.30",Bank Transfer,United Kingdom,Organic Search,New
+TXN100167,CUST1772,2025-11-13,Electronics,3,$825.06,"$2,475.18",Apple Pay,France,Referral,Returning
+TXN100168,CUST1424,2025-05-20,Beauty & Personal Care,1,$69.17,$69.17,PayPal,France,Organic Search,New
+TXN100169,CUST1694,2025-10-31,Grocery,3,$32.56,$97.68,Credit Card,India,Referral,VIP
+TXN100170,CUST1056,2025-01-04,Beauty & Personal Care,2,$30.62,$61.24,Debit Card,Germany,Email Campaign,New
+TXN100171,CUST1007,2025-09-12,Toys & Games,4,$27.68,$110.72,Bank Transfer,India,Direct,Returning
+TXN100172,CUST1684,2025-07-01,Apparel,6,$68.60,$411.60,Credit Card,France,Organic Search,Returning
+TXN100173,CUST1079,2025-06-10,Toys & Games,6,$72.22,$433.32,Cash on Delivery,France,Email Campaign,New
+TXN100174,CUST1021,2025-06-16,Home & Kitchen,5,$324.50,"$1,622.50",Apple Pay,Australia,Organic Search,New
+TXN100175,CUST1108,2025-05-05,Toys & Games,5,$73.95,$369.75,Credit Card,France,Paid Search,New
+TXN100176,CUST1347,2025-04-24,Books,1,$36.16,$36.16,Bank Transfer,United Kingdom,Direct,Returning
+TXN100177,CUST1927,2025-06-28,Books,6,$34.10,$204.60,Debit Card,India,Organic Search,New
+TXN100178,CUST1202,2025-03-30,Home & Kitchen,6,$308.88,"$1,853.28",Credit Card,Canada,Paid Search,Returning
+TXN100179,CUST1475,2025-10-16,Grocery,5,$41.51,$207.55,Cash on Delivery,UAE,Email Campaign,VIP
+TXN100180,CUST1642,2025-06-11,Home & Kitchen,4,$187.11,$748.44,Apple Pay,Germany,Paid Search,New
+TXN100181,CUST1057,2025-06-30,Apparel,4,$56.91,$227.64,Credit Card,USA,Email Campaign,Returning
+TXN100182,CUST1078,2025-11-27,Apparel,5,$98.03,$490.15,Apple Pay,Brazil,Direct,Returning
+TXN100183,CUST1810,2025-01-22,Grocery,5,$54.72,$273.60,Cash on Delivery,India,Email Campaign,Returning
+TXN100184,CUST1513,2025-03-19,Electronics,3,$568.10,"$1,704.30",Cash on Delivery,United Kingdom,Direct,Returning
+TXN100185,CUST1040,2025-05-07,Grocery,5,$59.48,$297.40,Bank Transfer,UAE,Paid Social,New
+TXN100186,CUST1939,2025-05-25,Toys & Games,3,$53.78,$161.34,Cash on Delivery,UAE,Organic Search,Returning
+TXN100187,CUST1662,2025-06-21,Apparel,5,$59.51,$297.55,Cash on Delivery,France,Email Campaign,New
+TXN100188,CUST1872,2025-12-03,Home & Kitchen,5,$146.68,$733.40,Cash on Delivery,Canada,Email Campaign,New
+TXN100189,CUST1671,2025-12-24,Toys & Games,6,$22.44,$134.64,Credit Card,Germany,Direct,New
+TXN100190,CUST1810,2025-06-18,Home & Kitchen,6,$274.64,"$1,647.84",Cash on Delivery,Japan,Organic Search,Returning
+TXN100191,CUST1433,2025-09-18,Books,3,$5.73,$17.19,Debit Card,India,Email Campaign,VIP
+TXN100192,CUST1497,2025-04-09,Beauty & Personal Care,2,$90.00,$180.00,Credit Card,Germany,Paid Search,Returning
+TXN100193,CUST1519,2025-10-04,Electronics,5,$811.22,"$4,056.10",Debit Card,UAE,Referral,New
+TXN100194,CUST1185,2025-12-21,Home & Kitchen,1,$294.05,$294.05,Apple Pay,Australia,Affiliate,Returning
+TXN100195,CUST1992,2025-08-16,Sports & Outdoors,4,$228.19,$912.76,Debit Card,Japan,Paid Social,New
+TXN100196,CUST1828,2025-08-29,Beauty & Personal Care,5,$36.27,$181.35,Apple Pay,Brazil,Paid Search,New
+TXN100197,CUST1391,2025-09-15,Toys & Games,2,$116.22,$232.44,Bank Transfer,Canada,Paid Search,New
+TXN100198,CUST1656,2025-09-04,Books,1,$27.18,$27.18,Cash on Delivery,Japan,Paid Search,New
+TXN100199,CUST1085,2025-03-24,Sports & Outdoors,5,$140.30,$701.50,Debit Card,France,Organic Search,VIP
+TXN100200,CUST1227,2025-08-19,Books,4,$42.22,$168.88,Credit Card,France,Direct,New
